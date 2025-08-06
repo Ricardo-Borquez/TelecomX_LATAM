@@ -21,7 +21,7 @@ Este proyecto tiene como objetivo analizar la evasión de clientes en empresa de
    
 # 2. Abre el notebook en Google Colab o Jupyter Notebook
 # Requiere Python 3 y las siguientes bibliotecas:
-# pandas, matplotlib, seaborn
+# pandas, matplotlib, plotly, request
 
 Los datos provienen de un archivo JSON disponible públicamente:
 
